@@ -1,4 +1,9 @@
 ### Hi there 👋
+```javascript
+function hello(){
+    console.log('hello world');
+}
+```
 
 <!--
 **mattreee/mattreee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
