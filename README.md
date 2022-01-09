@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Matheus!</h1>
-<h3 align="center">A frontend developer from Brazil.</h3>
+<h3 align="center">A self taught frontend developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **React, Sass and Styled components.**
+- 🌱 I’m currently learning **React and Sass.**
 
 - 📫 How to reach me **fantinatomatheuss@gmail.com**
 
